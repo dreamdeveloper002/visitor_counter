@@ -3,7 +3,7 @@ visitor counter with docker node and redis
 
 
 
-CLI COMMANDS
+CLI COMMAND
 
 Create and start containers 
  - docker-compose up 
